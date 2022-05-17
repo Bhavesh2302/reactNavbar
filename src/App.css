@@ -1,6 +1,32 @@
 .App {
   text-align: center;
 }
+#navbar{
+  background-color: black;
+  height:50px;
+  color:white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#logobak{
+  font-weight: bold;
+}
+
+.anch{
+  font-size: 18px;
+  display: block;
+  display: flex;
+gap:50px;
+}
+.btn{
+  border:1px solid blue;
+  border-radius: 10px;
+  padding:2px 10px 2px 10px;
+  background-color: teal;
+  color: lavender;
+}
+
 
 .App-logo {
   height: 40vmin;
